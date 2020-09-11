@@ -15,7 +15,7 @@ import org.junit.runner.RunWith;
 * They're transitive dependencies and will be provided by your dependencies and
 * after that run mvn clean install and re-import your project in your IDE.
 * (You can add below set of dependency)
-* 无法解决
+*
 * */
 @RunWith(Cucumber.class)
 @CucumberOptions(plugin = {"pretty"})
